@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#first{
+    background-color: #ffecf0;
+    
+    height: 850px;
+    width: auto;
+    display: inline-flex;
+}
+.top{
+    width: 50%;
+    padding: 0px 240px;
+}
+#shopNow{
+    background-color: rgb(237, 0, 135);
+    color: white;
+}
